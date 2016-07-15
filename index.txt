@@ -6,7 +6,7 @@ Piano	3	Honky-Tonk Piano	http://commons.wikimedia.org/wiki/File:The_Honky_Tonk_B
 Piano	4	Electric Piano 1	http://commons.wikimedia.org/wiki/File:Vierlang-Forster_electric_piano_(1937).jpg
 Piano	5	Electric Piano 2	http://commons.wikimedia.org/wiki/File:Wurlitzer_model_112_electric_piano_1956.JPG
 Piano	6	Harpsichord	http://commons.wikimedia.org/wiki/File:Single-Manual_Harpsichord_Italy_1783.JPG
-Piano	7	Clavi	http://commons.wikimedia.org/wiki/File:Clavi.jpg
+Piano	7	Clavi	https://commons.wikimedia.org/wiki/File:Clavinet_d6.jpg
 Chromatic Percussion	8	Celesta	http://commons.wikimedia.org/wiki/File:Celesta.jpg
 Chromatic Percussion	9	Glockenspiel	http://commons.wikimedia.org/wiki/File:Glockenspiel-malletech.jpg
 Chromatic Percussion	10	Music Box	http://commons.wikimedia.org/wiki/File:Mermod_Music_Box_swiss_1895_IMG_0254.JPG
